@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:mentor/logic/counter%20cubit/counter_cubit.dart';
+import '../../bloc/counter cubit/counter_cubit.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({
